@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Nicolas",
+        "email": "perfu.shopping@gmail.com",
+        "avatarFinal": "avatars\/img-5d128852a98b5.jpg",
+        "password": "$2y$10$H7hrWZuTz9ehOFdcMmO\/UON6VXBqFHC8yCE\/R8xCxnfQg2W5N2NxW"
+    },
+    {
+        "id": 2,
+        "name": "manuela",
+        "email": "manu@hotmail.com",
+        "avatarFinal": "avatars\/img-5d1288d5d9d48.jpg",
+        "password": "$2y$10$Bk6k3ZE8hl2u1CUHQTVQZO4l\/OKa3LK7VeyQwKaE3.dH3sWrFueEy"
+    },
+    {
+        "id": 3,
+        "name": "nuevojoa",
+        "email": " nuevojoa@hotmail.com",
+        "avatarFinal": "avatars\/img-5d12892126f51.jpg",
+        "password": "$2y$10$D7j5wrBk.oQDOZDMYnCwMucU\/NfXeUksLRIfmpFYtUAWWjXy.DwKu"
+    },
+    {
+        "id": 4,
+        "name": "maria",
+        "email": "marianuevo@hotmail.com",
+        "avatarFinal": "avatars\/img-5d12894098cfc.jpg",
+        "password": "$2y$10$V.rbRw0Moq8NpOsKkJ\/nju7kBeomrT4G\/Z9fAPPS.r8B\/J44jufQG"
+    }
+]
